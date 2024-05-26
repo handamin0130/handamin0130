@@ -14,7 +14,7 @@
     <a href="https://svelte.dev"><img height=30em src="https://img.shields.io/badge/Svelte-%2320232a?style=for-the-badge&logo=Svelte"></a>
 </div>
 <div align="center">
-    <a href="https://rust-lang.org"><img height=30em src="https://img.shields.io/badge/Rust-%2320232a?style=for-the-badge&logo=Rust></a>
+    <a href="https://rust-lang.org"><img height=30em src="https://img.shields.io/badge/Rust-%2320232a?style=for-the-badge&logo=Rust"></a>
     <a href="https://typescriptlang.org"><img height=30em src="https://img.shields.io/badge/TypeScript-%2320232a?style=for-the-badge&logo=TypeScript"></a>
     <a href="https://python.org"><img height=30em src="https://img.shields.io/badge/Python-%2320232a?style=for-the-badge&logo=Python"></a>
 </div>
