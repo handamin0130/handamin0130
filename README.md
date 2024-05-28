@@ -2,7 +2,13 @@
 <br>
 <br>
 
-<h1 align="center">Han Damin</h1>
+<h1 align="center">
+    Han Damin
+    <div align="center">
+        <br>
+        <a href="https://https://gitlab.com/daminsoftware"><img height=30em src="https://img.shields.io/badge/Damin Software-%2320232a?style=for-the-badge&color=%2385C1E9&logo=GitLab"></a>
+    </div>
+</h1>
 
 <div align="center">
     <a href="https://bevyengine.org"><img height=30em src="https://img.shields.io/badge/Bevy-%2320232a?style=for-the-badge&logo=Bevy"></a>
