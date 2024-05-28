@@ -6,7 +6,7 @@
     Han Damin
     <div align="center">
         <br>
-        <a href="https://https://gitlab.com/daminsoftware"><img height=30em src="https://img.shields.io/badge/Damin Software-%2320232a?style=for-the-badge&color=%2385C1E9&logo=GitLab"></a>
+        <a href="https://gitlab.com/daminsoftware"><img height=32em src="https://img.shields.io/badge/Damin Software-%2320232a?style=for-the-badge&color=%2385C1E9&logo=GitLab"></a>
     </div>
 </h1>
 
