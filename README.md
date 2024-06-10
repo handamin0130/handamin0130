@@ -4,10 +4,6 @@
 
 <h1 align="center">
     Han Damin
-    <div align="center">
-        <br>
-        <a href="https://gitlab.com/daminsoftware"><img height=32em src="https://img.shields.io/badge/Damin Software-%2320232a?style=for-the-badge&color=%2385C1E9&logo=GitLab"></a>
-    </div>
 </h1>
 
 <div align="center">
